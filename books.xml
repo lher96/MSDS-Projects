@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>The Brothers Karamazov</title>
+    <authors>Fyodor Dostoevsky; Richard Pevear; Larissa Volokhonsky</authors>
+    <year>1880</year>
+    <category>Philosophical novel</category>
+    <pages>824</pages>
+  </book>
+  <book>
+    <title>The Future of the Mind</title>
+    <authors>Michio Kaku</authors>
+    <year>2014</year>
+    <category>Popular science</category>
+    <pages>400</pages>
+  </book>
+  <book>
+    <title>The Lion, the Witch and the Wardrobe</title>
+    <authors>C. S. Lewis</authors>
+    <year>1950</year>
+    <category>Fantasy</category>
+    <pages>208</pages>
+  </book>
+</books>
